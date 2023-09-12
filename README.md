@@ -1,4 +1,4 @@
-# ESHWARGUUNDLA
+# ESHWARGUNDLA
 <h1 align="center">Hi 👋, I'm Eshwar Gundla</h1>
 <h3 align="center">A passionate full stack developer</h3>
 
